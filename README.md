@@ -1,18 +1,19 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10847820&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# SpeedFanatic
+O objetivo do projeto é expandir o acesso a informações sobre Fórmula 1 para os brasileiros, de maneira simples e bem explicada, indo dos mais jovens até os mais velhos. 
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Diego Polanski de Freitas Vieira
+* Guilherme de Almeida Santos
+* Henrique Monteiro Viana Cunha
+* Luís Augusto Starling Toledo
+* Samuel Ferreira Alves Vieira
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* João Carlos Oliveira Caetano
+* Simone de Assis Alves da Silva
 
 ## Instruções de utilização
 
